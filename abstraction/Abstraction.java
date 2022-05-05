@@ -1,5 +1,4 @@
 package abstraction;
-
 import expense.Currency;
 import expense.Employee;
 import expense.Supplier;
@@ -19,11 +18,31 @@ public abstract class Abstraction {
     String mobileStatus;
     Employee employee;
     Supplier supplier;
-    Currency currency;
+    Currency currency; 
 
-    public abstract void InvoiceDetails();
+    public abstract String InvoiceDate();
+
+    public Abstraction(){
     
-    public String getId() {
+    }
+    public Abstraction(String invoiceNo,String invoiceDate){
+        this.invoiceNo = invoiceNo;
+        this.invoiceDate = invoiceDate;
+        System.out.println(this.invoiceNo);
+    }
+
+    public Abstraction(Double amount){
+        this.amount = amount;
+    }
+    public Abstraction(String id,String createdDate,String dueDate,String name,boolean isActive){
+        this.id = id;
+        this.createdDate = createdDate;
+        this.dueDate = dueDate;
+        this.name = name;
+        this.isActive = isActive;
+    }
+    
+    public  String getId() {
         return this.id;
     }
 
