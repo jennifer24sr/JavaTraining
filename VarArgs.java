@@ -7,9 +7,9 @@ public class VarArgs {
             System.out.println(i + " ");
         }
     }
-    public static void varArgs2(Generics...a){
+    public static void varArgs2(Generics<Integer>...a){
         System.out.println("Varargs" + a.length);
-        for(int i : a){
+        for(Generics<Integer> i : a){
             System.out.println(i + " ");
         }
     }
