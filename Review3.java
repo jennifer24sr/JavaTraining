@@ -66,7 +66,7 @@ class GenericArray<T>{
         GenericArray<String> obj2 = new GenericArray<>();
         obj1.id = 10;
         obj2.id = "10";
-        obj2.id++;
+        // obj2.id++;
     }
 
 

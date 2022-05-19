@@ -1,8 +1,8 @@
 package interfaces;
 
-public class hello implements Hii {
+public class hello {
 
-    @Override
+    
     public void HelloWorld() {
         // TODO Auto-generated method stub
         
