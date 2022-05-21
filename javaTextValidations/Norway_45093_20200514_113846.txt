@@ -1,0 +1,55 @@
+=====================================================================================================================================================================
+                                                  FAKTURA                               45093
+
+                                                  Dato     13.05.2020               Side       1
+      11648                                       Deres ref.             Ordre ref.
+
+                                                  979 61 200
+      Fakturaadresse                              Var ref.        Forfallsdato TransportmÃ¤te 
+
+       Wigdal Transport 2 AS                      Kjell BjÃ¸marKarstense 27.05.2020
+       faktura@wigdal.no                          Betalingsbetingelser   Prosjekt
+
+       Geithusveien 69                            14 dager
+       3370 VIKERSUND                             Leveringsbetingelser   Kundens best. nr.
+       NORGE                                     EXW
+
+      Leveringsadresse:                           KID nr                 11648450937
+
+       Geithusveien 69
+       3370 VIKERSUND
+
+       NORGE
+
+     Artikkelnr   Beskrivelse                               Rab-% Antall Enhet   Pris    Sum NOK
+
+     AO:  7623   13.05.2020 100     Ettermarked Rep lys
+     VMTR       Verkstedmateriell av arbeidstimer                   1,00 TIME 109,00       109,00
+
+     1000763    LOFTAKSELVENTIL PNEAUMATISK                        1,00  STK 1465,10      1465,10
+
+     VSTD       Verksted standard timepris (0700-1500)\ROHÃ€         1,00  STK 1090,00     1090,00
+     Arbeidskost:   0,00    Delekost: 2664,10                                            2 664,10
+
+     Reg: KX 2800
+     Tlf: 97961200
+
+     Rep bremselys.
+     Rep av luftlekkasje pÃ¡ luft tank foran.
+
+     Bytte defekt ventil til containerlas.
+
+
+                                                          Total eks Moms:                2 664,10
+
+                                                          MVA:                            666,03
+                                                          Total inkl. Moms:              3 330,13
+
+
+      Nor Slep AS             Telefon  33489370                  Bankgirokonto : 81500602295
+      Borgeskogen 48          Telefax                            IBAN nr : NO6881500602295
+      3160 STOKKE             E-post    norslep@norslep.no       Swift kode : DABANO22
+
+      NORGE                   www   norslep.no                   Foretaksregisteret    NO933730050MVA
+
+=====================================================================================================================================================================
