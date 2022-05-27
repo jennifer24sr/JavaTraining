@@ -5,6 +5,10 @@ public class Model extends ReadFileAndMatchPattern {
     String kidNo,accountNO,ibanNumber;
     String foreTaksRegisteret,forFallsDat;
 
+    Model(){
+        
+    }
+
     public String getInvoiceNo() {
         return this.invoiceNo;
     }
