@@ -10,6 +10,7 @@ public class Regexfile {
         Pattern ptrn = Pattern.compile(regex,Pattern.CASE_INSENSITIVE);
         Matcher match = ptrn.matcher(validationField);
         System.out.println(str + " " + match.find());
+        System.out.println("Group 0 " + match.group(0));
         System.out.println("Key  " + match.group(1));
         System.out.println("Value  " + match.group(2));
         System.out.println("Position  " + match.start());
@@ -43,26 +44,3 @@ public class Regexfile {
 
     }
 }
-
-        // int invoiceNo;
-        // long  kidNo,
-        // accountNo;
-        // String invoiceDate,
-        // ibanNumber,
-        // ,
-        // forFallsDatoTransportmÃ¤te;
-        // double sum;
-        // boolean findWhetherfileExists = false;
-
-        // File file = null;
-        // while(!findWhetherfileExists){
-
-        //     file = new File("Norway_45093_20200514_113846.txt");
-        //     fileRead = sc.nextLine();
-        //     findWhetherfileExists = file.exists();
-        // }
-        // try {
-        //     Scanner fileScan = new Scanner(file);
-        // } catch (Exception e) {
-        //     System.err.println("Exception Occurred");
-        // }
